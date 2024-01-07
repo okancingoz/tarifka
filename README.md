@@ -1,7 +1,8 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
-<img width="5050" alt="tarifka-mockup" src="https://github.com/okancingoz/tarifka/assets/88890682/942e0f7a-94c6-458f-8332-c375c4077861">
+<img width="2525" alt="tarifka-mockup" src="https://github.com/okancingoz/tarifka/assets/88890682/a905f24a-64fd-49ee-a2b6-fdfe448c8999">
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
